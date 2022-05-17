@@ -1,2 +1,2 @@
-# agency-template
-Agency | Макет сайта цифрового агентства 
+# seabattle
+Игра Морской бой, реализованная на ванильном JavaScript
